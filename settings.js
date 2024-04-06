@@ -73,7 +73,7 @@ global.APIKeys = {
  
 //---------[ STICKERS ]---------
 global.packname = "..Ņ𝗼𝒗𝖆ᙖ𝗼ț-𝕄𝘋"
-global.author = `${✰Ꮶᵘ𝒛ศɳ✰}`
+global.author = `${❣𓊈KUZAN𓊉❣}`
  
 //---------[ IMAGEN ]---------
 global.imagen1 = fs.readFileSync('./media/menu.jpg')
